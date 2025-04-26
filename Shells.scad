@@ -1,4 +1,12 @@
 // -------------------------
+// Details
+// -------------------------
+
+
+// In this model, we a have region in the xy-planed defined by a top function y = f(x), a bottom function y = g(x), and lines x = a ≥ 0 and x = b > a. The region is revolved around the y-axis to produce a solid.
+// The shell model devides the interval [a,b] into n equal subintervals. The chosen sample point determines the top and bottom of the rectangle above a subinterval. The rectangle is revolved about the y-axis to obtain a shell. All the shells together give an approximate volume.
+
+// -------------------------
 // Parameters
 // -------------------------
 
@@ -15,9 +23,6 @@ scalefactor = printedwidth / (2 * b);
 // -------------------------
 // Functions defining the solid
 // -------------------------
-
-// In this model, we a region in the xy-planed defined by a top function y = f(x), a bottom function y = g(x), and lines x = a ≥ 0 and x = b > a. The region is revolved around the y-axis to produce a solid.
-// The shell model devides the interval [a,b] into n equal subintervals. The chosen sample point determines the top and bottom of the rectangle above a subinterval. The rectangle is revolved about the y-axis to obtain a shell. All the shells together give an approximate volume.
 
 // Top function: defines top surface y = f(x)
 function f(x) = 3 - 3 * (x - 2) * (x - 2);
