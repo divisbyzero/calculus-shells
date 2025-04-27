@@ -25,7 +25,8 @@ This repository contains an OpenSCAD file for illustrating the **shell method** 
 
 - [Shell model](Shells.stl) (preview STL file)
 - [Solid for the shell model](Solid.stl) (preview STL file)
-- 
+
+
 ## How to Use
 
 - Open the `.scad` file in [OpenSCAD](https://openscad.org/).
