@@ -15,6 +15,17 @@ This repository contains an OpenSCAD file for illustrating the **shell method** 
 - The volume is approximated using **cylindrical shells**, where each shell corresponds to a subinterval sample.
 - Alternatively, the exact **solid of revolution** can be rendered using a full surface sweep.
 
+
+<p align="center">
+  <img src="Shell.jpeg" alt="Shell model" width="400">
+  <img src="ShellSolid.jpeg" alt="The solid for the shell model" width="400">
+</p>
+
+## Interactive Previews
+
+- [Shell model](Shells.stl) (preview STL file)
+- [Solid for the shell model](Solid.stl) (preview STL file)
+- 
 ## How to Use
 
 - Open the `.scad` file in [OpenSCAD](https://openscad.org/).
