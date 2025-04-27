@@ -1,6 +1,8 @@
-// -------------------------
-// Details
-// -------------------------
+//===================================================
+// Calculus 3D Models: The Shell Method
+// Author: https://github.com/divisbyzero
+// Description: OpenSCAD file for illustrating the shell method for calculating volumes of revolution, commonly taught in calculus courses.
+//===================================================
 
 
 // In this model, we a have region in the xy-planed defined by a top function y = f(x), a bottom function y = g(x), and lines x = a ≥ 0 and x = b > a. The region is revolved around the y-axis to produce a solid.
