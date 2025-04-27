@@ -23,8 +23,8 @@ This repository contains an OpenSCAD file for illustrating the **shell method** 
 
 ## Interactive Previews
 
-- [Shell model](Shells.stl) (preview STL file)
-- [Solid for the shell model](ShellsSolid.stl) (preview STL file)
+- [Shells model](Shells.stl) (preview STL file)
+- [Solid for the shells model](ShellsSolid.stl) (preview STL file)
 
 
 ## How to Use
