@@ -24,7 +24,7 @@ This repository contains an OpenSCAD file for illustrating the **shell method** 
 ## Interactive Previews
 
 - [Shell model](Shells.stl) (preview STL file)
-- [Solid for the shell model](Solid.stl) (preview STL file)
+- [Solid for the shell model](ShellsSolid.stl) (preview STL file)
 
 
 ## How to Use
@@ -41,7 +41,7 @@ This repository contains an OpenSCAD file for illustrating the **shell method** 
 ## Files Included
 
 - `Shells.scad` — Main customizable OpenSCAD model with cylindrical shell approximation and full solid modes.
-- `Solid.stl` — STL file of the full solid of revolution (smooth continuous surface).
+- `ShellsSolid.stl` — STL file of the full solid of revolution (smooth continuous surface).
 - `Shells.stl` — STL file showing the discrete cylindrical shell approximation.
 
 ## License
