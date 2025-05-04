@@ -1,6 +1,3 @@
-[![GitHub](https://img.shields.io/badge/OpenSCAD-View%20Source-blue?logo=openscad)](https://github.com/divisbyzero/calculus-shells)
-[![Download STL](https://img.shields.io/badge/Download-STL%20Files-orange?logo=3d-printing)](https://github.com/divisbyzero/calculus-shells/releases)
-
 # Calculus 3D Models: Shell Method
 
 This repository contains an OpenSCAD file for illustrating the **shell method** for calculating volumes of revolution, commonly taught in calculus courses.
